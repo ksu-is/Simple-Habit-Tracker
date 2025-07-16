@@ -5,3 +5,6 @@ https://github.com/ksu-is/Simple-Habit-Tracker for Sprint 1 task
 
 
 ON 7/15/25 started working on simple habit code by watching tutorials on commands to make the code functional.
+
+
+ON 7/15/25 8:10PM I fixed lines 12-18 due to syntax error. Correct adjustments made
